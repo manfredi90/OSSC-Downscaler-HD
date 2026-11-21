@@ -3,8 +3,7 @@ OSSC Downscaler HD firmware
 
 An unofficial secondary firmware for the [Open Source Scan Converter](https://github.com/marqs85/ossc)
 that converts **HD and 31kHz sources on the VGA or component inputs** to
-**1080i or 540p on HDMI**, with the standard 1080i timing (CEA-861 1920x1080i:
-2200 clocks per line, 1125 lines, 74.25MHz), for HD CRT TVs and monitors (through
+**1080i or 540p on HDMI**, for HD CRT TVs and monitors (through
 HDMI, an HDMI→component converter or an HDMI→VGA DAC). The output is frame
 locked to the input: no frame buffer, no added frame of lag.
 
