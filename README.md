@@ -55,8 +55,7 @@ Requirements
   * RGB / RGBS HD monitors through an HDMI→VGA DAC; composite sync can be
     sent on the HSYNC line if the monitor needs it ("CSync on HSYNC").
 * 1080i is the standard HDMI format and works everywhere; 540p is not a
-  standard HDMI format: HD CRTs and most converters take it, many flat-panel
-  TVs don't (or show it with artifacts at the edges).
+  standard HDMI format, but HD CRTs and most converters take it.
 
 
 Supported inputs and outputs
