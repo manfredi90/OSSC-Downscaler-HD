@@ -64,7 +64,7 @@ Supported inputs and outputs
 | Input (60Hz)        | Output | Notes |
 |---------------------|--------|-------|
 | 1920x1080p          | 540p / 1080i | 540p: every output line is the average of 2 input lines (or the first of the two, without line blending); 1080i: each field takes every other line (optional flicker filter). All 1920 pixels |
-| 1280x720p           | 540p / 1080i | 4 input lines become 3 output lines, weighted (540p: by area; 1080i: interpolated, the two fields 2/3 of an input line apart; without line blending: the nearest lines). The ADC samples at 1.5x: 1920 pixels |
+| 1280x720p           | 540p / 1080i | 4 input lines become 3 output lines, weighted |
 | 1920x1080i          | 540p | every field becomes a 540p frame: the lines of the two fields are interpolated onto the same output lines (no bobbing). Also with "Output mode" 1080i |
 | 720x480p            | 540p / 1080i | 480 lines become 512 (16 every 15 input lines, interpolated), centered. **4:3**: all 720 pixels, 2 clocks each (1440 wide); **Wide** (anamorphic 16:9): the ADC samples at 2.5x, 1800 pixels. 1080i: both fields show the same lines |
 | 640x480p            | 540p / 1080i | as 720x480p, 640 pixels: **4:3** 2 clocks each (1280 wide), **Wide** 3 clocks each (1920 wide) |
