@@ -4,7 +4,9 @@ OSSC Downscaler HD firmware
 An unofficial secondary firmware for the [Open Source Scan Converter](https://github.com/marqs85/ossc)
 that converts **HD and 31kHz sources on the VGA or component inputs** to
 **1080i or 540p on HDMI**, for HD CRT TVs and monitors (through
-HDMI, an HDMI→component converter or an HDMI→VGA DAC). The output is frame
+HDMI, an HDMI→component converter or an HDMI→VGA DAC). It is useful for
+multisync monitors that go up to 1080i at most, and for Sony HD CRTs, which
+are lag-free only with 540p sources. The output is frame
 locked to the input: no frame buffer, no added frame of lag.
 
 It is the HD sibling of the [OSSC Downscaler](https://github.com/manfredi90/OSSC-Downscaler)
