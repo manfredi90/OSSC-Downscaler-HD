@@ -2,7 +2,7 @@ name: Build secondary firmware
 
 on:
   push:
-    branches: [downscaler]
+    branches: [hd]
   workflow_dispatch:
 
 env:
