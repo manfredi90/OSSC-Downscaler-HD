@@ -86,7 +86,8 @@ Installation
    that was installed).
 3. Start it with **Launch 2nd FW**. The LCD shows `HD vX.Y 540p/i` and the
    OSSC outputs the test pattern until a supported input is found.
-4. Press button 3 on the remote control (RGBHV) to switch to the correct input
+4. Select your source's input and signal type with the corresponding button
+   on the remote control (as in the official firmware)
 
 Buttons on the OSSC: the 1st one selects the next input (as in the official
 firmware); the 2nd one switches between 540p and 1080i (short press) and
