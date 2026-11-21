@@ -141,4 +141,6 @@ Credits and license
 
 * Based on the [Open Source Scan Converter](https://github.com/marqs85/ossc)
   by Markus Hiienkari and contributors (see [CREDITS](CREDITS)).
+* Thanks to Bob of [RetroRGB](https://www.retrorgb.com) for all the testing:
+  it made the firmware compatible with Sony HD CRT TVs.
 * License: GPLv3, same as the OSSC project (see [LICENSE](LICENSE)).
