@@ -142,7 +142,8 @@ Credits and license
 * Based on the [Open Source Scan Converter](https://github.com/marqs85/ossc)
   by Markus Hiienkari and contributors (see [CREDITS](CREDITS)).
 * Thanks to Bob of [RetroRGB](https://www.retrorgb.com) for all the testing:
-  it made the firmware compatible with Sony HD CRT TVs.
+  his tests helped me make the firmware compatible with Sony HD CRT TVs and
+  HDMI→component converters.
 * Thanks to [MarcoRetro](https://www.youtube.com/channel/UCjia1y1U3GKA5MFSF8gZnog)
   and his "Downscaling Chronicles" series, which got me interested in the
   subject.
