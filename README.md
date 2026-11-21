@@ -124,8 +124,6 @@ Known issues and limitations
 ----------------------------
 
 * 50Hz sources are not supported.
-* 540p over HDMI is not a standard format: flat-panel TVs may reject it or
-  show stale lines at the bottom / right edge. Use 1080i with them.
 
 
 Building
