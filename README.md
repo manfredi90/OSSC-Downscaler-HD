@@ -61,9 +61,6 @@ Requirements
 Supported inputs and outputs
 ----------------------------
 
-All outputs are 1920x540 per field / frame, on the 1080i line timing; the HDMI
-active area is always the full 1920x540 window (black around smaller pictures).
-
 | Input (60Hz)        | Output | Notes |
 |---------------------|--------|-------|
 | 1920x1080p          | 540p / 1080i | 540p: every output line is the average of 2 input lines (or the first of the two, without line blending); 1080i: each field takes every other line (optional flicker filter). All 1920 pixels |
