@@ -143,4 +143,7 @@ Credits and license
   by Markus Hiienkari and contributors (see [CREDITS](CREDITS)).
 * Thanks to Bob of [RetroRGB](https://www.retrorgb.com) for all the testing:
   it made the firmware compatible with Sony HD CRT TVs.
+* Thanks to [MarcoRetro](https://www.youtube.com/channel/UCjia1y1U3GKA5MFSF8gZnog)
+  and his "Downscaling Chronicles" series, which got me interested in the
+  subject.
 * License: GPLv3, same as the OSSC project (see [LICENSE](LICENSE)).
