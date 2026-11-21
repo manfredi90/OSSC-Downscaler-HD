@@ -51,7 +51,7 @@ Requirements
 * A display that takes 1080i (or 540p) at the standard timing:
   * HD CRT TVs and monitors with an HDMI input, or with a component input
     through an HDMI→component converter (tested: Sony HD CRT, generic HDMI to
-    YPbPr converter, JVC HD CRT);
+    YPbPr converter, JVC DT series monitor);
   * RGB / RGBS HD monitors through an HDMI→VGA DAC; composite sync can be
     sent on the HSYNC line if the monitor needs it ("CSync on HSYNC").
 * 1080i is the standard HDMI format and works everywhere; 540p is not a
