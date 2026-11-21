@@ -47,7 +47,7 @@ Requirements
 
 * OSSC board (tested on rev 1.8) with the official firmware (tested with 1.22)
   as the primary firmware
-* Source on the VGA input (AV3, RGBHV) or on a component input (YPbPr)
+* Source on the VGA input (AV3) or on a component input (YPbPr)
 * A display that takes 1080i (or 540p) at the standard timing:
   * HD CRT TVs and monitors with an HDMI input, or with a component input
     through an HDMI→component converter (tested: Sony HD CRT, generic HDMI to
