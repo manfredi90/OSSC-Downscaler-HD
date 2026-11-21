@@ -49,7 +49,7 @@ Requirements
   as the primary firmware
 * Source on the VGA input (AV3) or on a component input (YPbPr)
 * A display that takes 1080i (or 540p) at the standard timing:
-  * HD CRT TVs and monitors with an HDMI input, or with a component input
+  * HD CRT TVs and monitors
     through an HDMI→component converter (tested: Sony HD CRT, generic HDMI to
     YPbPr converter, JVC DT series monitor);
   * RGB / RGBS HD monitors through an HDMI→VGA DAC; composite sync can be
