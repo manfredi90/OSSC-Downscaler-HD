@@ -146,5 +146,5 @@ Credits and license
   HDMI→component converters.
 * Thanks to [MarcoRetro](https://www.youtube.com/channel/UCjia1y1U3GKA5MFSF8gZnog)
   and his "Downscaling Chronicles" series, which got me interested in the
-  subject.
+  subject. Viva la pizza!
 * License: GPLv3, same as the OSSC project (see [LICENSE](LICENSE)).
