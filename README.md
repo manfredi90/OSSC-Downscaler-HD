@@ -71,8 +71,7 @@ Supported inputs and outputs
 
 * Every output pixel lasts a whole number of output clocks, and the output
   clock is generated at an exact ratio of the input clock, so horizontal
-  scrolling stays smooth (480p / 640x480: every pixel is the average of
-  exactly 2 ADC samples, i.e. one source pixel).
+  scrolling stays smooth.
 * Any other input (50Hz sources included) shows the test pattern with
   "Unsupported".
 
